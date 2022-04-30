@@ -4,6 +4,8 @@ This repository stores a project that I completely made up. The code found withi
 
 ## Contributors
 - Nicholas Ray <ntr28@nau.edu>
+- Zachary hahn
+- Shawn Sargent
 
 ## License & Copyright
 
